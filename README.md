@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>لیلا | آگاهی و فضاهای کیهانی</title>
+  <title>| آگاهی و فضاهایmr_hossini313_369
+کیهانی</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
