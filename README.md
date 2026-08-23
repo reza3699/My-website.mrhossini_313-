@@ -9,7 +9,7 @@
 </head>
 <body>
   <header class="header">
-    <div class="logo">لیلا</div>
+    <div class="logoreza</div>
     <nav class="nav">
       <button class="nav-toggle" id="navToggle">☰</button>
       <ul class="nav-links" id="navLinks">
