@@ -67,9 +67,8 @@
       <h2>ارتباط</h2>
       <p>اگه دوست داشتی در مورد همکاری، ایده‌ها یا پروژه‌ها گپ بزنیم:</p>
       <ul class="contact-list">
-        <li><strong>ایمیل:</strong> your-email@example.com</li>
-        <li><strong>دیسکورد:</strong> Reza313_369</li>
-        <li><strong>تلگرام:</strong> کانال «آگاهی»</li>
+        <li><strong>ایمیل:</strong> rh6627954@gmali.com</li>
+        <li><strong>https://discord.gg/JYqjV7mD:</s:</strong> کانال «آگاهی»</li>
       </ul>
     </section>
   </main>
