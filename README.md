@@ -75,7 +75,7 @@
   </main>
 
   <footer class="footer">
-    <p>© 2026 لیلا – مدار آگاهی و کیهان</p>
+    <p>© 2026 رضآ – مدار آگاهی و کیهان</p>
   </footer>
 
   <script src="script.js"></script>
